@@ -1,2 +1,2 @@
-# react-boilerplate
-A barebones repo setup with React 
+# React Bare-bones
+A repo with a ready react environment bundled with webpack and airbnb style guide
